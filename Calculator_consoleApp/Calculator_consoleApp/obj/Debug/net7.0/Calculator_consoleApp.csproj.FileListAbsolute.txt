@@ -1,0 +1,15 @@
+D:\dev\Dev Mode\.Net\Calculator_consoleApp\Calculator_consoleApp\bin\Debug\net7.0\Calculator_consoleApp.exe
+D:\dev\Dev Mode\.Net\Calculator_consoleApp\Calculator_consoleApp\bin\Debug\net7.0\Calculator_consoleApp.deps.json
+D:\dev\Dev Mode\.Net\Calculator_consoleApp\Calculator_consoleApp\bin\Debug\net7.0\Calculator_consoleApp.runtimeconfig.json
+D:\dev\Dev Mode\.Net\Calculator_consoleApp\Calculator_consoleApp\bin\Debug\net7.0\Calculator_consoleApp.dll
+D:\dev\Dev Mode\.Net\Calculator_consoleApp\Calculator_consoleApp\bin\Debug\net7.0\Calculator_consoleApp.pdb
+D:\dev\Dev Mode\.Net\Calculator_consoleApp\Calculator_consoleApp\obj\Debug\net7.0\Calculator_consoleApp.csproj.AssemblyReference.cache
+D:\dev\Dev Mode\.Net\Calculator_consoleApp\Calculator_consoleApp\obj\Debug\net7.0\Calculator_consoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\Dev Mode\.Net\Calculator_consoleApp\Calculator_consoleApp\obj\Debug\net7.0\Calculator_consoleApp.AssemblyInfoInputs.cache
+D:\dev\Dev Mode\.Net\Calculator_consoleApp\Calculator_consoleApp\obj\Debug\net7.0\Calculator_consoleApp.AssemblyInfo.cs
+D:\dev\Dev Mode\.Net\Calculator_consoleApp\Calculator_consoleApp\obj\Debug\net7.0\Calculator_consoleApp.csproj.CoreCompileInputs.cache
+D:\dev\Dev Mode\.Net\Calculator_consoleApp\Calculator_consoleApp\obj\Debug\net7.0\Calculator_consoleApp.dll
+D:\dev\Dev Mode\.Net\Calculator_consoleApp\Calculator_consoleApp\obj\Debug\net7.0\refint\Calculator_consoleApp.dll
+D:\dev\Dev Mode\.Net\Calculator_consoleApp\Calculator_consoleApp\obj\Debug\net7.0\Calculator_consoleApp.pdb
+D:\dev\Dev Mode\.Net\Calculator_consoleApp\Calculator_consoleApp\obj\Debug\net7.0\Calculator_consoleApp.genruntimeconfig.cache
+D:\dev\Dev Mode\.Net\Calculator_consoleApp\Calculator_consoleApp\obj\Debug\net7.0\ref\Calculator_consoleApp.dll
